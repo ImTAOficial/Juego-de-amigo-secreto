@@ -12,8 +12,7 @@ Esta aplicación web te permite agregar una lista de amigos y sortear un nombre 
 
 ---
 
-## 📸 **Vista previa**  
-_Aquí puedes agregar capturas de pantalla del proyecto si deseas._  
+## 📸 **Vista previa**   
 
 ![Captura de Pantalla](assets/screenshot.png)  
 
